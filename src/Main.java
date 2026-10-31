@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello Git in IntelliJ!");
         System.out.println("Hello Git again!");
         System.out.println("Line added from GitHub!");
+        System.out.println("Try adding java code to github, then pull that code into IntelliJ");
     }
 }
